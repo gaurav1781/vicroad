@@ -1,0 +1,220 @@
+﻿2021-09-19T12:33:44.5657163+10:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-09-19T12:33:44.5659930+10:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework netcore31 in x64 mode execution started
+2021-09-19T12:33:44.5659986+10:00;VSTestExecutionThread;Info;TestAdapter Location: D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-09-19T12:33:44.5682056+10:00;VSTestExecutionThread;Info;Current UserName: 'Gaurav', MachineName: 'LAPTOP-AVT55FKT'
+2021-09-19T12:33:44.5982187+10:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\vicroad.dll
+2021-09-19T12:33:44.5983917+10:00;VSTestExecutionThread;Info;Output folder configured to "D:\Software\CWorkspace\vicroad\TestResults" (default)
+2021-09-19T12:33:44.5984450+10:00;VSTestExecutionThread;Info;Profile: 
+2021-09-19T12:33:44.6367592+10:00;VSTestExecutionThread;Info;Log file path: D:\Software\CWorkspace\vicroad\TestResults\Unnamed project__2021-09-19T123344.log
+2021-09-19T12:33:44.6428668+10:00;Thread#12;Info;Checking activation
+2021-09-19T12:33:44.7253236+10:00;Thread#12;Info;Activated.
+2021-09-19T12:33:44.7255543+10:00;Thread#12;Info;Activation check completed
+2021-09-19T12:33:44.7256448+10:00;Thread#12;Info;Starting test run
+2021-09-19T12:33:44.7985052+10:00;Thread#12;Info;Discovering target: Default
+2021-09-19T12:33:44.7986646+10:00;Thread#12;Info;Discovering tests from assembly: D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\vicroad.dll
+2021-09-19T12:33:44.8536705+10:00;Thread#12;Info;Discovered tests from assembly: D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\vicroad.dll
+2021-09-19T12:33:44.8547367+10:00:Test Suite Dump
+2021-09-19T12:33:44.8566749+10:00:#0: Unnamed project/ - 
+2021-09-19T12:33:44.8567360+10:00:#1: Default - 
+2021-09-19T12:33:44.8567384+10:00:#2: vicroad - 
+2021-09-19T12:33:44.8567410+10:00:#3: Test - 
+2021-09-19T12:33:44.8587162+10:00:#4: Scenario tests one day price for pass of passenger vehicle - TestAssembly:vicroad/Feature:Test/Scenario:Scenario+tests+one+day+price+for+pass+of+passenger+vehicle
+2021-09-19T12:33:44.8587576+10:00:#5: Scenario tests permit price for Goods carrying vehicle - TestAssembly:vicroad/Feature:Test/Scenario:Scenario+tests+permit+price+for+Goods+carrying+vehicle
+2021-09-19T12:33:44.8587838+10:00:End: Test Suite Dump
+2021-09-19T12:33:44.8713110+10:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-19T12:33:44.8731805+10:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-09-19T12:33:44.8732539+10:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-09-19T12:33:44.8759016+10:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-09-19T12:33:44.8759128+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-09-19T12:33:44.8759149+10:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-09-19T12:33:44.8759174+10:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-09-19T12:33:44.8763788+10:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-09-19T12:33:44.8771495+10:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-09-19T12:33:44.8787161+10:00:Thread #0: creating new test thread executor for vicroad, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-09-19T12:33:44.8804991+10:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-09-19T12:33:44.8806468+10:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-09-19T12:33:44.8820506+10:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-09-19T12:33:44.8833953+10:00:starting Out Of Process Executor
+2021-09-19T12:33:44.8845000+10:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T12:33:44.8872962+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-09-19T12:33:44.8873102+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-09-19T12:33:44.8882628+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1'
+2021-09-19T12:33:44.8886311+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-09-19T12:33:44.8887579+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-09-19T12:33:44.8887801+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1'
+2021-09-19T12:33:44.8890448+10:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-09-19T12:33:44.8898709+10:00:Tfm: netcoreapp3.1
+2021-09-19T12:33:44.8899040+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T12:33:44.8899271+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-09-19T12:33:44.8899592+10:00:[AssemblyCache] Found file 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-09-19T12:33:44.8903839+10:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-09-19T12:33:44.8909808+10:00:Starting callback TCP Rpc server
+2021-09-19T12:33:44.9073318+10:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-09-19T12:33:44.9074089+10:00:Started callback TCP Rpc server on port 32768
+2021-09-19T12:33:44.9074165+10:00:Starting logger TCP Rpc server
+2021-09-19T12:33:44.9116640+10:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-09-19T12:33:44.9117182+10:00:Started logger TCP Rpc server on port 32769
+2021-09-19T12:33:44.9722598+10:00:Executing test executor at 'dotnet' 'exec "D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 12476 --uniqueId "2021-09-19T123344" --outputFolder "D:\Software\CWorkspace\vicroad\TestResults" --callbackPort 32768 --loggerPort 32769' in 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1'
+2021-09-19T12:33:44.9799302+10:00:Executor with PID 23768 has been started successfully.
+2021-09-19T12:33:44.9826069+10:00:Out of Process Executor 23768 started
+2021-09-19T12:33:44.9826361+10:00:Waiting for endpoint
+2021-09-19T12:33:45.2496649+10:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T12:33:45.2496896+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-09-19T12:33:45.2496919+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-09-19T12:33:45.2496949+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1'
+2021-09-19T12:33:45.2496964+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-09-19T12:33:45.2497140+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-09-19T12:33:45.2497406+10:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1'
+2021-09-19T12:33:45.2497433+10:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-09-19T12:33:45.2497628+10:00:Tfm: netcoreapp3.1
+2021-09-19T12:33:45.2497659+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T12:33:45.2497673+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-09-19T12:33:45.2497844+10:00:[AssemblyCache] Found file 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-09-19T12:33:45.2501903+10:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-09-19T12:33:45.4302567+10:00:Remote executor port received: 32770
+2021-09-19T12:33:45.4305320+10:00:Creating executor TCP client on port 32770
+2021-09-19T12:33:45.4307969+10:00:Created executor TCP client on port 32770
+2021-09-19T12:33:45.4308038+10:00:Connecting to remote executor TCP server
+2021-09-19T12:33:45.4314108+10:00:Connected remote executor TCP server
+2021-09-19T12:33:45.4315623+10:00:trying to connect to Out of Process Executor the 1 attempt
+2021-09-19T12:33:45.4315691+10:00:Connection to Out of Process Executor established in the 1 attempt
+2021-09-19T12:33:45.5473437+10:00:2021-09-19T12:33:45.5465558+10:00:OutOfProcessTestAssemblyExecutor: initialized for D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\vicroad.dll on test thread #0
+2021-09-19T12:33:45.5508564+10:00:Endpoint 23768 started
+2021-09-19T12:33:45.5662560+10:00:2021-09-19T12:33:45.5659048+10:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-09-19T12:33:45.6625788+10:00:2021-09-19T12:33:45.6621532+10:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-09-19T12:33:45.6654596+10:00:2021-09-19T12:33:45.6650882+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-09-19T12:33:45.6679248+10:00:2021-09-19T12:33:45.6675860+10:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Gaurav\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-09-19T12:33:45.7540962+10:00:2021-09-19T12:33:45.7537052+10:00:Thread#0:T:-> Loading plugin D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\vicroad.dll
+2021-09-19T12:33:45.7552594+10:00:2021-09-19T12:33:45.7549261+10:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-09-19T12:33:45.7560335+10:00:2021-09-19T12:33:45.7556749+10:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-09-19T12:33:45.7572843+10:00:2021-09-19T12:33:45.7565753+10:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\Gaurav\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-09-19T12:33:45.7936731+10:00:2021-09-19T12:33:45.7932988+10:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-09-19T12:33:45.7943802+10:00:2021-09-19T12:33:45.7941021+10:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-09-19T12:33:45.7951236+10:00:2021-09-19T12:33:45.7948240+10:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\Gaurav\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-09-19T12:33:45.8013512+10:00:2021-09-19T12:33:45.8009618+10:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in vicroad, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-09-19T12:33:45.8019787+10:00:2021-09-19T12:33:45.8017086+10:00:Thread#0:T:-> Loading plugin D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-09-19T12:33:45.8036662+10:00:2021-09-19T12:33:45.8033806+10:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2021-09-19T12:33:45.8043033+10:00:2021-09-19T12:33:45.8039375+10:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-09-19T12:33:45.8050226+10:00:2021-09-19T12:33:45.8047316+10:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\Gaurav\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-09-19T12:33:45.8079096+10:00:2021-09-19T12:33:45.8075026+10:00:Thread#0:T:-> Loading plugin D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-09-19T12:33:45.8135799+10:00:2021-09-19T12:33:45.8132575+10:00:Thread#0:T:-> Using default config
+2021-09-19T12:33:45.8221783+10:00:2021-09-19T12:33:45.8208887+10:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-09-19T12:33:45.8247199+10:00:2021-09-19T12:33:45.8232634+10:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-09-19T12:33:45.8264483+10:00:2021-09-19T12:33:45.8256305+10:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Gaurav\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-09-19T12:33:45.8294681+10:00:2021-09-19T12:33:45.8285732+10:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-09-19T12:33:45.8307835+10:00:2021-09-19T12:33:45.8300909+10:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-09-19T12:33:45.8323801+10:00:2021-09-19T12:33:45.8316604+10:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Gaurav\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-09-19T12:33:45.8375979+10:00:2021-09-19T12:33:45.8368965+10:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T12:33:45.8391386+10:00:2021-09-19T12:33:45.8380980+10:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-09-19T12:33:45.8411199+10:00:2021-09-19T12:33:45.8401104+10:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Gaurav\.nuget\packages\microsoft.testplatform.objectmodel\16.11.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-09-19T12:33:45.8654728+10:00:2021-09-19T12:33:45.8646822+10:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-09-19T12:33:45.8659393+10:00:2021-09-19T12:33:45.8657401+10:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2021-09-19T12:33:45.8666280+10:00:2021-09-19T12:33:45.8663316+10:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\Gaurav\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2021-09-19T12:33:45.9314310+10:00:Thread#0: Test #4/0 is started on thread #0
+2021-09-19T12:33:45.9448924+10:00:2021-09-19T12:33:45.9445449+10:00:Thread#0:B:Given User visits vicroads website
+2021-09-19T12:33:45.9552691+10:00:2021-09-19T12:33:45.9548119+10:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2021-09-19T12:33:45.9557300+10:00:2021-09-19T12:33:45.9555417+10:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2021-09-19T12:33:45.9564087+10:00:2021-09-19T12:33:45.9561116+10:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\Gaurav\.nuget\packages\selenium.webdriver\3.141.0\lib\netstandard2.0\WebDriver.dll'
+2021-09-19T12:33:48.1090106+10:00:2021-09-19T12:33:48.1077631+10:00:Thread#0:T:done: TestSteps.login() (2.1s)
+2021-09-19T12:33:48.1143932+10:00:2021-09-19T12:33:48.1130553+10:00:Thread#0:B:Given User selects passenger vehicle
+2021-09-19T12:33:48.1169036+10:00:2021-09-19T12:33:48.1165347+10:00:Assembly resolving WebDriver.Support, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2021-09-19T12:33:48.1172770+10:00:2021-09-19T12:33:48.1170967+10:00:[AssemblyCache] Trying to resolve 'WebDriver.Support' from .deps.json file
+2021-09-19T12:33:48.1179206+10:00:2021-09-19T12:33:48.1176956+10:00:[AssemblyCache] Resolved 'WebDriver.Support' to 'C:\Users\Gaurav\.nuget\packages\selenium.support\3.141.0\lib\netstandard2.0\WebDriver.Support.dll'
+2021-09-19T12:33:48.2950196+10:00:2021-09-19T12:33:48.2947821+10:00:Thread#0:T:done: TestSteps.vehicle_drpdwon() (0.2s)
+2021-09-19T12:33:48.2957305+10:00:2021-09-19T12:33:48.2955877+10:00:Thread#0:B:And fills information
+2021-09-19T12:33:48.8187169+10:00:2021-09-19T12:33:48.8177001+10:00:Thread#0:T:done: TestSteps.GivenFillsInformation() (0.5s)
+2021-09-19T12:33:48.8218974+10:00:2021-09-19T12:33:48.8210820+10:00:Thread#0:B:When User clicks calculator - Submit Order
+2021-09-19T12:33:50.0868528+10:00:2021-09-19T12:33:50.0849700+10:00:Thread#0:T:done: TestSteps.submit_order() (1.3s)
+2021-09-19T12:33:50.0890576+10:00:2021-09-19T12:33:50.0887222+10:00:Thread#0:B:Then Pass amount is calculated and User is taken to next pages
+2021-09-19T12:33:50.2313825+10:00:2021-09-19T12:33:50.2306580+10:00:Thread#0:T:done: TestSteps.user_next_page1() (0.1s)
+2021-09-19T12:33:50.2437406+10:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-19T12:33:50.2439056+10:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-09-19T12:33:50.2439187+10:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-09-19T12:33:50.2440029+10:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-09-19T12:33:50.2440082+10:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-09-19T12:33:50.2440102+10:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-09-19T12:33:50.2440125+10:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-09-19T12:33:50.2440377+10:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-09-19T12:33:50.2440784+10:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-09-19T12:33:50.2948745+10:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 4.3628199 seconds
+2021-09-19T12:33:50.2972013+10:00:Thread#0: Test #5/0 is started on thread #0
+2021-09-19T12:33:50.2987342+10:00:2021-09-19T12:33:50.2983874+10:00:Thread#0:B:Given User visits vicroads website
+2021-09-19T12:33:52.3040833+10:00:2021-09-19T12:33:52.3024642+10:00:Thread#0:T:done: TestSteps.login() (2.0s)
+2021-09-19T12:33:52.3060829+10:00:2021-09-19T12:33:52.3055075+10:00:Thread#0:B:Given newUser selects Goods carrying vehicle
+2021-09-19T12:33:52.5216112+10:00:2021-09-19T12:33:52.5208701+10:00:Thread#0:T:done: TestSteps.select_goods_veh() (0.2s)
+2021-09-19T12:33:52.5227054+10:00:2021-09-19T12:33:52.5222201+10:00:Thread#0:B:And newUser selects carrying vehicle type
+2021-09-19T12:33:52.6278064+10:00:2021-09-19T12:33:52.6272512+10:00:Thread#0:T:done: TestSteps.veh_type() (0.1s)
+2021-09-19T12:33:52.6286665+10:00:2021-09-19T12:33:52.6282469+10:00:Thread#0:B:And newUser fills Address
+2021-09-19T12:33:52.7494732+10:00:2021-09-19T12:33:52.7490291+10:00:Thread#0:T:done: TestSteps.User_FillsAddress() (0.1s)
+2021-09-19T12:33:52.7502501+10:00:2021-09-19T12:33:52.7498588+10:00:Thread#0:B:And newUser fills the Permit Date
+2021-09-19T12:33:52.9092066+10:00:2021-09-19T12:33:52.9086837+10:00:Thread#0:T:done: TestSteps.UserFills_PermitDate() (0.2s)
+2021-09-19T12:33:52.9100929+10:00:2021-09-19T12:33:52.9096469+10:00:Thread#0:B:And newUser fills the Permit Duration
+2021-09-19T12:33:53.0285955+10:00:2021-09-19T12:33:53.0279141+10:00:Thread#0:T:done: TestSteps.GivenUserFillsThePermitDuration() (0.1s)
+2021-09-19T12:33:53.0307625+10:00:2021-09-19T12:33:53.0295937+10:00:Thread#0:B:And newUser clicks calculator - Submit Order
+2021-09-19T12:33:54.2175291+10:00:2021-09-19T12:33:54.2157897+10:00:Thread#0:T:done: TestSteps.User_ClicksCalculator() (1.2s)
+2021-09-19T12:33:54.2199931+10:00:2021-09-19T12:33:54.2196470+10:00:Thread#0:B:Then Pass amount is calculated and newUser is taken to next pages
+2021-09-19T12:33:54.2221134+10:00:2021-09-19T12:33:54.2216843+10:00:Thread#0:T:done: TestSteps.user_next_page() (0.0s)
+2021-09-19T12:33:54.2242135+10:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-19T12:33:54.2242648+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-09-19T12:33:54.2242825+10:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-09-19T12:33:54.2242975+10:00:Thread#0:Scheduler: No more tests for thread
+2021-09-19T12:33:54.2328311+10:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 3.935415 seconds
+2021-09-19T12:33:54.2423788+10:00:2021-09-19T12:33:54.2420521+10:00:Got Deinitialize Signal
+2021-09-19T12:33:54.2464139+10:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-09-19T12:33:54.2469679+10:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-09-19T12:33:54.2485877+10:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-09-19T12:33:54.2513141+10:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T12:33:54.2513833+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-09-19T12:33:54.2513891+10:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-09-19T12:33:54.2513961+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1'
+2021-09-19T12:33:54.2514008+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-09-19T12:33:54.2514270+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-09-19T12:33:54.2514426+10:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1'
+2021-09-19T12:33:54.2514488+10:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-09-19T12:33:54.2515082+10:00:Tfm: netcoreapp3.1
+2021-09-19T12:33:54.2515115+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T12:33:54.2515141+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-09-19T12:33:54.2515385+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-09-19T12:33:54.2515836+10:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'D:\Software\CWorkspace\vicroad\vicroad\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T12:33:54.2622881+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.18'
+2021-09-19T12:33:54.2623049+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.18\System.Diagnostics.Process.resources.dll'
+2021-09-19T12:33:54.2623708+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.18\System.Diagnostics.Process.resources.exe'
+2021-09-19T12:33:54.2624051+10:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.18'
+2021-09-19T12:33:54.2625801+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18'
+2021-09-19T12:33:54.2625863+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Diagnostics.Process.resources.dll'
+2021-09-19T12:33:54.2626248+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18\System.Diagnostics.Process.resources.exe'
+2021-09-19T12:33:54.2626589+10:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.18'
+2021-09-19T12:33:54.2627721+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.18'
+2021-09-19T12:33:54.2627774+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.18\System.Diagnostics.Process.resources.dll'
+2021-09-19T12:33:54.2628275+10:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.18\System.Diagnostics.Process.resources.exe'
+2021-09-19T12:33:54.2628719+10:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.18'
+2021-09-19T12:33:54.2636331+10:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T12:33:54.2729521+10:00:Thread#-1:Scheduler: get next test for thread -1
+2021-09-19T12:33:54.2730171+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-09-19T12:33:54.2730231+10:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-09-19T12:33:54.2749050+10:00;Thread#12;Info;test run finished
+2021-09-19T12:33:54.2752840+10:00;Thread#12;Info;publishing test results
+2021-09-19T12:33:54.2754360+10:00;Thread#12;Info;Not publishing results.
+2021-09-19T12:33:54.2755068+10:00;Thread#12;Info;test results published
+2021-09-19T12:33:54.2755692+10:00;Thread#12;Info;generating reports
+2021-09-19T12:33:54.3597699+10:00;Thread#12;Info;Starting external report generation process
+2021-09-19T12:33:55.7994645+10:00;Thread#12;Info;Successfully generated reports.
+2021-09-19T12:33:55.8011737+10:00;Thread#12;Info;Successfully generated reports
+2021-09-19T12:33:55.8074669+10:00:Total: 2
+2021-09-19T12:33:55.8089834+10:00:Succeeded: 2
+2021-09-19T12:33:55.8092296+10:00:Ignored: 0
+2021-09-19T12:33:55.8094089+10:00:Pending: 0
+2021-09-19T12:33:55.8094146+10:00:Skipped: 0
+2021-09-19T12:33:55.8095813+10:00:Failed: 0
+2021-09-19T12:33:55.8137571+10:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-09-19T12:33:55.8138309+10:00;VSTestExecutionThread;Info;adding Test Execution Report 'D:\Software\CWorkspace\vicroad\TestResults\Unnamed project__2021-09-19T123344.html'
+========== End of log file ==========
